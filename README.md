@@ -37,7 +37,8 @@ Real-World Applications:
 Machine Learning is at the core of modern AI and continues to evolve rapidly, powering smarter applications and systems across every industry.
 
 TO-DO:
-what is machine learning and type of machine learning?
+
+What is machine learning and type of machine learning?
 a) suprvised learning
 b) unsuprvised learning
 c) Semisupervised learning
