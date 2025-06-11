@@ -34,5 +34,13 @@ Real-World Applications:
 -  Face recognition software
 -  Chatbots and virtual assistants (like this one!)
 
+Machine Learning is at the core of modern AI and continues to evolve rapidly, powering smarter applications and systems across every industry.
 
-> Machine Learning is at the core of modern AI and continues to evolve rapidly, powering smarter applications and systems across every industry.
+TO-DO:
+what is machine learning and type of machine learning?
+a) suprvised learning
+b) unsuprvised learning
+c) Semisupervised learning
+d) Reinforecment learning
+2) what is difference between ML and DL?
+3) Machine learning life cycle
